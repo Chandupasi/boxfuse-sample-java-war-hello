@@ -3,7 +3,8 @@
     <title>aws devloprs: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Congratulations well come to cloud computing </h1>
+ <h2>created by chandu</h2>
 <img src="tech space.jpg">
 
 <h2>You have successfully launched your Instance! well come to all of you we are very glade to invites you</h2>
